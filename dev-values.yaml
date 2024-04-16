@@ -1,0 +1,36 @@
+       repository:
+         tag:   jenkins-78
+         assets:
+          image: fridade/assets
+       
+         carts:
+          image: fridade/cart
+       
+         cart_dynamodb:
+          image: fridade/cart-dynamodb
+        
+         catalog:
+          image: fridade/catalog
+       
+        
+         catalog_mysql:
+          image: fridade/catalog-mysql
+       
+         checkout:
+          image: fridade/checkout
+       
+         checkout_redis:
+          image: fridade/checkout-redis
+       
+         orders:
+          image: fridade/orders
+       
+         orders_mysql:
+          image: fridade/orders-mysql
+       
+         orders_rabbitmq:
+          image: fridade/orders-rabbitmq 
+       
+         ui:
+          image: fridade/ui
+
