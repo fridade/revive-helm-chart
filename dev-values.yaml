@@ -1,5 +1,5 @@
        repository:
-         tag:   jenkins-93
+         tag:   jenkins-78
          assets:
           image: fridade/assets
        
@@ -33,3 +33,4 @@
        
          ui:
           image: fridade/ui
+
