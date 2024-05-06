@@ -1,5 +1,5 @@
        repository:
-         tag:   jenkins-8
+         tag:   jenkins-12
          assets:
           image: fridade/assets
        
